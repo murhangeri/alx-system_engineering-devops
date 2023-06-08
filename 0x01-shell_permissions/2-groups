@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /ect/group
+cat root /etc/group
